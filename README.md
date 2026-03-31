@@ -43,11 +43,10 @@
 ---
 
 ### 📌 Highlight Projects
-- 🔹 AI-powered web applications *(Coming Soon)*
+- 🔹 AI-powered tailor management wesite
 - 🔹 Financial tracking / analysis tools
 - 🔹 Custom web platforms using Next.js & Laravel
 
-*(Note: You can hyperlink these items to your repositories later!)*
 
 ---
 
