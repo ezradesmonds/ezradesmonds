@@ -37,6 +37,8 @@
 **Tools & Databases** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
 *🌱 Currently Learning: AI/ML, Data Analytics, System Architecture*
 
@@ -54,3 +56,4 @@
 - 🌐 Website: [ezradesmonds.my.id](https://ezradesmonds.my.id)
 - 📷 Instagram: [@ezradesmonds](https://instagram.com/ezradesmonds)
 - 📍 Location: Surabaya, Indonesia
+- 💼 LinkedIn: [Ezra Desmond Sutanto](https://www.linkedin.com/in/ezra-desmond-sutanto-92685a350/)
