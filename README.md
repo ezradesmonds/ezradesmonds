@@ -1,26 +1,29 @@
 # Hi, I'm Ezra Desmond Sutanto
 
-I'm an Informatics student, AI and full-stack builder, and cross-domain operator based in **Surabaya, Indonesia**.
+I'm an Informatics student, full-stack builder, and cross-domain operator based in **Surabaya, Indonesia**.
 
-I build practical software at the intersection of **AI systems**, **web products**, **finance workflows**, and **student/community operations**. My bias is toward tools that solve real coordination, reporting, learning, and execution problems, not demos that only look good in screenshots.
+I build practical software across **AI systems**, **web products**, **finance workflows**, and **operations tooling**. My strongest lane is turning messy real-world processes into reliable products: accounting, reporting, event operations, research dashboards, automation flows, and tools that help people execute faster.
+
+I describe myself as a **functional generalist**: technical enough to ship, product-minded enough to scope, and operations-aware enough to care about whether the system survives real users.
 
 - Building AI-assisted products, internal tools, and full-stack web systems
-- Exploring quantitative finance, automation, and research workflows
-- Preparing for Apple Developer Academy 2027 and international postgraduate options
-- 2nd Place Winner, SUTD x Petra Christian University International Hackathon 2026
-- Open to AI internships, freelance web work, and execution-tool collaborations
+- Exploring research-first quantitative finance, automation, and market intelligence workflows
+- Post-submission phase for **Apple Developer Academy 2027**: sharpening portfolio proof, product judgment, and Apple-native thinking
+- 2nd Place Winner, **SUTD x Petra Christian University International Hackathon 2026**
+- Open to AI internships, freelance web work, product engineering collaborations, and useful software problems
 
 ---
 
-## What I'm Building
+## Selected Work
 
 | Project | What it does | Stack / Domain |
 |---|---|---|
-| **Akun.AI** | AI-assisted accounting SaaS for Indonesian SMEs with ledger, reports, receipt OCR planning, and subscription workflows | Next.js, TypeScript, Supabase, PostgreSQL, OpenRouter, Stripe |
-| **TokoKaret.com** | Live commerce platform for rubber and industrial products with AI-assisted consultation and WhatsApp handoff | Astro, TypeScript, Tailwind CSS, RAG, AI Recommendation |
-| **FinanceOS** | Private financial research and dry-run trading terminal for market scanning, signal review, and paper trade lifecycle tracking | Next.js, TypeScript, Python, Binance API, PostgreSQL |
-| **Tailor Efficiency + Cooperative System** | ML workforce allocation and cooperative management system; 2nd Place at SUTD x PCU International Hackathon | Python, Machine Learning, Laravel, MySQL |
-| **WGG 2026 Platform** | Recruitment, admin, and orientation web tools for Petra Christian University's Informatics onboarding | Laravel, Full-Stack Web Development |
+| **Akun.AI** | AI-assisted accounting and finance operations system for Indonesian SMEs, including ledger workflows, reporting, and business admin surfaces | Next.js, TypeScript, Supabase, PostgreSQL, AI integration |
+| **TokoKaret.com** | Commerce and consultation platform for rubber and industrial products, with AI-assisted guidance and WhatsApp handoff | Astro, TypeScript, Tailwind CSS, RAG / recommendation flow |
+| **FinanceOS** | Private market research terminal for news ingestion, watchlists, signal review, and dry-run trade lifecycle tracking | Next.js, TypeScript, Python, Binance API, PostgreSQL |
+| **RekapFlow** | Finance and transaction-reconciliation workflow app focused on manual-entry reliability, review states, and operational clarity | React, TypeScript, data workflows |
+| **Tailor Efficiency + Cooperative System** | ML workforce allocation and cooperative management system; awarded 2nd place at SUTD x PCU International Hackathon | Python, Machine Learning, Laravel, MySQL |
+| **WGG 2026 Platform** | Recruitment, admin, and orientation web tools for Petra Christian University's Informatics onboarding | Laravel, full-stack web development |
 | **Innofashion Show 8 Platform** | Event registration, admin dashboard, QR ticketing, and participant operations for a live student-run event | Next.js, Laravel, MySQL |
 | **Personal Portfolio** | Case-study portfolio for AI, full-stack, finance, event-tech, and academic systems | Astro, TypeScript, Tailwind CSS |
 
@@ -31,8 +34,8 @@ I build practical software at the intersection of **AI systems**, **web products
 - AI-powered web apps and automation workflows
 - Accounting, finance, and reporting systems for SMEs and operators
 - Research-only quantitative finance tools and dry-run trading infrastructure
-- Product design, system architecture, and reliable delivery under event or academic deadlines
-- Campus leadership and operations across technical, finance, and administration roles
+- Product design, system architecture, and maintainable delivery
+- Campus leadership and operations across technology, finance, and administration roles
 
 ---
 
@@ -72,13 +75,14 @@ I build practical software at the intersection of **AI systems**, **web products
 ![MetaTrader 5](https://img.shields.io/badge/-MetaTrader_5-2C2C54?style=flat)
 ![Binance](https://img.shields.io/badge/-Binance-F0B90B?style=flat&logo=binance&logoColor=black)
 
-Currently learning deeper AI agent orchestration, quantitative research systems, and Mandarin.
+Currently learning deeper AI agent orchestration, quantitative research systems, Mandarin, and Apple-native product patterns.
 
 ---
 
 ## Links
 
 - Portfolio: [www.ezradesmonds.my.id](https://www.ezradesmonds.my.id)
-- LinkedIn: [ezradesmonds](https://www.linkedin.com/in/ezradesmonds/)
+- LinkedIn: [Ezra Desmond Sutanto](https://www.linkedin.com/in/ezra-desmond-sutanto-92685a350/)
 - Instagram: [@ezradesmonds](https://instagram.com/ezradesmonds)
 - GitHub: [@ezradesmonds](https://github.com/ezradesmonds)
+- Location: Surabaya, Indonesia
