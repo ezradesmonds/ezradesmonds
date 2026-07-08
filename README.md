@@ -4,7 +4,7 @@ I'm an Informatics student, full-stack builder, and cross-domain operator based 
 
 I build practical software across **AI systems**, **web products**, **finance workflows**, and **operations tooling**. My strongest lane is turning messy real-world processes into reliable products: accounting, reporting, event operations, research dashboards, automation flows, and tools that help people execute faster.
 
-I describe myself as a **functional generalist**: technical enough to ship, product-minded enough to scope, and operations-aware enough to care about whether the system survives real users.
+My core lane is **full-stack product engineering with an AI systems focus**: I design, build, and ship practical tools that combine software architecture, automation, data workflows, and real operational use cases.
 
 - Building AI-assisted products, internal tools, and full-stack web systems
 - Exploring research-first quantitative finance, automation, and market intelligence workflows
