@@ -1,72 +1,84 @@
-# 👋 Hi, I'm Ezra Desmond Sutanto
+# Hi, I'm Ezra Desmond Sutanto
 
-### 💡 About Me
+I'm an Informatics student, AI and full-stack builder, and cross-domain operator based in **Surabaya, Indonesia**.
 
-- 👨‍💻 Informatics student (Sem 4), full-stack developer, and entrepreneurially-driven builder based in **Surabaya, Indonesia**.
-- 🚀 I build at the intersection of **web development**, **AI automation**, and **quantitative finance**.
-- 🧠 Self-identifying as a **Functional Generalist** — I operate fluidly across technical, creative, and business domains.
-- 🎯 Currently applying to **Apple Developer Academy** and exploring **postgraduate opportunities abroad**.
-- 🏆 **2nd Place Winner** – GEO Hackathon (PCU × SUTD).
+I build practical software at the intersection of **AI systems**, **web products**, **finance workflows**, and **student/community operations**. My bias is toward tools that solve real coordination, reporting, learning, and execution problems, not demos that only look good in screenshots.
+
+- Building AI-assisted products, internal tools, and full-stack web systems
+- Exploring quantitative finance, automation, and research workflows
+- Preparing for Apple Developer Academy 2027 and international postgraduate options
+- 2nd Place Winner, SUTD x Petra Christian University International Hackathon 2026
+- Open to AI internships, freelance web work, and execution-tool collaborations
 
 ---
 
-### 🔨 What I'm Building (2025–2026)
+## What I'm Building
 
-| Project | Description | Stack |
+| Project | What it does | Stack / Domain |
 |---|---|---|
-| **LifeOS / AgenticOS** | Desktop app integrating task management, finance tracking & gamified leveling | Tauri, React, SQLite |
-| **UMKM Accounting SaaS** | LLM-powered natural-language financial input & reporting for SMEs | Next.js, Laravel, OpenRouter |
-| **AutoTrading Bot** | Telegram signal → MT5 auto-execution on Exness | Python, MT5 API, Telegram Bot |
-| **Telegram AI Agent** | General-purpose daily assistant powered by MiniMax 2.5 | Python, OpenRouter, Telegram |
-| **WGG 2026** | Web platform for PCU's MPLS orientation (1,000+ new students) | Next.js |
-| **Innofashion 2026** | Event web platform for PCU's annual fashion show | Next.js, Laravel |
-| **ezradesmonds.my.id** | Personal portfolio website | Next.js |
+| **Akun.AI** | AI-assisted accounting SaaS for Indonesian SMEs with ledger, reports, receipt OCR planning, and subscription workflows | Next.js, TypeScript, Supabase, PostgreSQL, OpenRouter, Stripe |
+| **TokoKaret.com** | Live commerce platform for rubber and industrial products with AI-assisted consultation and WhatsApp handoff | Astro, TypeScript, Tailwind CSS, RAG, AI Recommendation |
+| **FinanceOS** | Private financial research and dry-run trading terminal for market scanning, signal review, and paper trade lifecycle tracking | Next.js, TypeScript, Python, Binance API, PostgreSQL |
+| **Tailor Efficiency + Cooperative System** | ML workforce allocation and cooperative management system; 2nd Place at SUTD x PCU International Hackathon | Python, Machine Learning, Laravel, MySQL |
+| **WGG 2026 Platform** | Recruitment, admin, and orientation web tools for Petra Christian University's Informatics onboarding | Laravel, Full-Stack Web Development |
+| **Innofashion Show 8 Platform** | Event registration, admin dashboard, QR ticketing, and participant operations for a live student-run event | Next.js, Laravel, MySQL |
+| **Personal Portfolio** | Case-study portfolio for AI, full-stack, finance, event-tech, and academic systems | Astro, TypeScript, Tailwind CSS |
 
 ---
 
-### 🧠 Current Focus
+## Current Focus
 
-- 🤖 AI-powered web apps & automation workflows (n8n, OpenRouter, LLM integration)
-- 📈 Quantitative finance & algorithmic trading systems
-- 🌐 Building scalable digital products with real-world impact
-- 💼 Campus leadership: Chair of **Investalk 2026**, Treasurer of **IRGL 2026**, Secretary of **DIGICOMP 2026**, IT Coordinator of **INNOFASHIONSHOW8**
+- AI-powered web apps and automation workflows
+- Accounting, finance, and reporting systems for SMEs and operators
+- Research-only quantitative finance tools and dry-run trading infrastructure
+- Product design, system architecture, and reliable delivery under event or academic deadlines
+- Campus leadership and operations across technical, finance, and administration roles
 
 ---
 
-### 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
-**Frameworks & Libraries**
+**Frontend & Product**
+
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
 
-**Tools & Infrastructure**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+**Backend, Data & Infrastructure**
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+**AI, Automation & Finance**
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![MetaTrader 5](https://img.shields.io/badge/-MetaTrader_5-2C2C54?style=flat)
+![Binance](https://img.shields.io/badge/-Binance-F0B90B?style=flat&logo=binance&logoColor=black)
 
-**Security & Finance**
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![MetaTrader](https://img.shields.io/badge/-MetaTrader5-2C2C54?style=flat)
-
-*🌱 Currently Learning: AI agent orchestration, quantitative trading, Mandarin*
+Currently learning deeper AI agent orchestration, quantitative research systems, and Mandarin.
 
 ---
 
-### 🌍 Let's Connect
+## Links
 
-- 🌐 Website: [ezradesmonds.my.id](https://ezradesmonds.my.id)
-- 📷 Instagram: [@ezradesmonds](https://instagram.com/ezradesmonds)
-- 💼 LinkedIn: [Ezra Desmond Sutanto](https://www.linkedin.com/in/ezra-desmond-sutanto-92685a350/)
-- 📍 Location: Surabaya, Indonesia
+- Portfolio: [www.ezradesmonds.my.id](https://www.ezradesmonds.my.id)
+- LinkedIn: [ezradesmonds](https://www.linkedin.com/in/ezradesmonds/)
+- Instagram: [@ezradesmonds](https://instagram.com/ezradesmonds)
+- GitHub: [@ezradesmonds](https://github.com/ezradesmonds)
