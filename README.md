@@ -22,10 +22,10 @@ My core lane is **full-stack product engineering with an AI systems focus**: I d
 | **TokoKaret.com** | Commerce and consultation platform for rubber and industrial products, with AI-assisted guidance and WhatsApp handoff | Astro, TypeScript, Tailwind CSS, RAG / recommendation flow |
 | **FinanceOS** | Private market research terminal for news ingestion, watchlists, signal review, and dry-run trade lifecycle tracking | Next.js, TypeScript, Python, Binance API, PostgreSQL |
 | **RekapFlow** | Finance and transaction-reconciliation workflow app focused on manual-entry reliability, review states, and operational clarity | React, TypeScript, data workflows |
-| **Tailor Efficiency + Cooperative System** | ML workforce allocation and cooperative management system; awarded 2nd place at SUTD x PCU International Hackathon | Python, Machine Learning, Laravel, MySQL |
-| **WGG 2026 Platform** | Recruitment, admin, and orientation web tools for Petra Christian University's Informatics onboarding | Laravel, full-stack web development |
-| **Innofashion Show 8 Platform** | Event registration, admin dashboard, QR ticketing, and participant operations for a live student-run event | Next.js, Laravel, MySQL |
-| **Personal Portfolio** | Case-study portfolio for AI, full-stack, finance, event-tech, and academic systems | Astro, TypeScript, Tailwind CSS |
+| **SAKTI — Intelligent Tailor Allocation System** | A hybrid decision-support platform combining tailor profiling, adaptive allocation, workload balancing, and integrated cooperative operations. | Python, Machine Learning, Streamlit, SQLite |
+| **WGG 2026** | Recruitment, admin, and orientation web tools for Petra Christian University's Informatics onboarding | Laravel, full-stack web development |
+| **Innofashion Show 8** | Event registration, admin dashboard, QR ticketing, and participant operations for a live student-run event | Next.js, Laravel, MySQL |
+| **Personal Portfolio** | Case-study portfolio for AI, full-stack, finance, event-tech, interactive game, and academic systems | Astro, TypeScript, Tailwind CSS |
 
 ---
 
