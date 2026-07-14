@@ -23,7 +23,7 @@ My core lane is **full-stack product engineering with an AI systems focus**: I d
 | **FinanceOS** | Private market research terminal for news ingestion, watchlists, signal review, and dry-run trade lifecycle tracking | Next.js, TypeScript, Python, Binance API, PostgreSQL |
 | **RekapFlow** | Finance and transaction-reconciliation workflow app focused on manual-entry reliability, review states, and operational clarity | React, TypeScript, data workflows |
 | [**SAKTI — Intelligent Tailor Allocation System**](https://github.com/ezradesmonds/SAKTIkoperasiapp) | A hybrid decision-support prototype combining tailor profiling, adaptive allocation, workload balancing, and integrated cooperative operations. | Python, Machine Learning, Streamlit, SQLite |
-| **Servisin** | Group-built repair-service marketplace where I owned the Laravel backend, contributed to the React Native frontend, and co-created the product and business design | Laravel, full-stack web development |
+| **Servisin** | Group-built repair-service marketplace where I owned the Laravel backend, contributed to the React Native frontend, and co-created the product and business design | Laravel, React Native, MySQL, product and business design |
 | **Innofashion Show 8** | Event registration, admin dashboard, QR ticketing, and participant operations for a live student-run event | Next.js, Laravel, MySQL |
 | **Personal Portfolio** | Case-study portfolio for AI, full-stack, finance, event-tech, interactive game, and academic systems | Astro, TypeScript, Tailwind CSS |
 
