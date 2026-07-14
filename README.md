@@ -18,12 +18,12 @@ My core lane is **full-stack product engineering with an AI systems focus**: I d
 
 | Project | What it does | Stack / Domain |
 |---|---|---|
-| **Akun.AI** | AI-assisted accounting and finance operations system for Indonesian SMEs, including ledger workflows, reporting, and business admin surfaces | Next.js, TypeScript, Supabase, PostgreSQL, AI integration |
-| **TokoKaret.com** | Commerce and consultation platform for rubber and industrial products, with AI-assisted guidance and WhatsApp handoff | Astro, TypeScript, Tailwind CSS, RAG / recommendation flow |
+| **Akun.AI** | Pre-launch AI-assisted accounting MVP for Indonesian SMEs, with production-oriented architecture for ledger workflows, reporting, and business admin surfaces | Next.js, TypeScript, Supabase, PostgreSQL, AI integration |
+| **TokoKaret.com** | Commerce and consultation platform for rubber and industrial products, with a client-side rule/keyword recommendation helper and WhatsApp handoff | Astro, TypeScript, Tailwind CSS, rule-based recommendation |
 | **FinanceOS** | Private market research terminal for news ingestion, watchlists, signal review, and dry-run trade lifecycle tracking | Next.js, TypeScript, Python, Binance API, PostgreSQL |
 | **RekapFlow** | Finance and transaction-reconciliation workflow app focused on manual-entry reliability, review states, and operational clarity | React, TypeScript, data workflows |
-| **SAKTI — Intelligent Tailor Allocation System** | A hybrid decision-support platform combining tailor profiling, adaptive allocation, workload balancing, and integrated cooperative operations. | Python, Machine Learning, Streamlit, SQLite |
-| **WGG 2026** | Recruitment, admin, and orientation web tools for Petra Christian University's Informatics onboarding | Laravel, full-stack web development |
+| [**SAKTI — Intelligent Tailor Allocation System**](https://github.com/ezradesmonds/SAKTIkoperasiapp) | A hybrid decision-support prototype combining tailor profiling, adaptive allocation, workload balancing, and integrated cooperative operations. | Python, Machine Learning, Streamlit, SQLite |
+| **Servisin** | Group-built repair-service marketplace where I owned the Laravel backend, contributed to the React Native frontend, and co-created the product and business design | Laravel, full-stack web development |
 | **Innofashion Show 8** | Event registration, admin dashboard, QR ticketing, and participant operations for a live student-run event | Next.js, Laravel, MySQL |
 | **Personal Portfolio** | Case-study portfolio for AI, full-stack, finance, event-tech, interactive game, and academic systems | Astro, TypeScript, Tailwind CSS |
 
@@ -82,7 +82,7 @@ Currently learning deeper AI agent orchestration, quantitative research systems,
 ## Links
 
 - Portfolio: [www.ezradesmonds.my.id](https://www.ezradesmonds.my.id)
-- LinkedIn: [Ezra Desmond Sutanto](https://www.linkedin.com/in/ezra-desmond-sutanto-92685a350/)
+- LinkedIn: [Ezra Desmond Sutanto](https://www.linkedin.com/in/ezradesmonds/)
 - Instagram: [@ezradesmonds](https://instagram.com/ezradesmonds)
 - GitHub: [@ezradesmonds](https://github.com/ezradesmonds)
 - Location: Surabaya, Indonesia
