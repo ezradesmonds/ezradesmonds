@@ -1,88 +1,153 @@
-# Hi, I'm Ezra Desmond Sutanto
+<h1 align="center">Hi 👋, I'm Ezra Desmond Sutanto</h1>
 
-I'm an Informatics student, full-stack builder, and cross-domain operator based in **Surabaya, Indonesia**.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=1100&color=C7F464&center=true&vCenter=true&width=900&lines=AI+%26+Full-Stack+Product+Builder;Turning+Messy+Workflows+Into+Usable+Systems;Building+With+TypeScript%2C+Python+%26+Product+Judgment;Always+Testing+What+Actually+Works"
+    alt="Animated introduction: AI and full-stack product builder"
+  />
+</p>
 
-I build practical software across **AI systems**, **web products**, **finance workflows**, and **operations tooling**. My strongest lane is turning messy real-world processes into reliable products: accounting, reporting, event operations, research dashboards, automation flows, and tools that help people execute faster.
+<p align="center">
+  <strong>Informatics Student · Petra Christian University · Surabaya, Indonesia</strong>
+</p>
 
-My core lane is **full-stack product engineering with an AI systems focus**: I design, build, and ship practical tools that combine software architecture, automation, data workflows, and real operational use cases.
+<p align="center">
+  Building across <strong>AI systems</strong> • <strong>full-stack products</strong> •
+  <strong>decision support</strong> • <strong>operational tooling</strong>
+</p>
 
-- Building AI-assisted products, internal tools, and full-stack web systems
-- Exploring research-first quantitative finance, automation, and market intelligence workflows
-- Post-submission phase for **Apple Developer Academy 2027**: sharpening portfolio proof, product judgment, and Apple-native thinking
-- 2nd Place Winner, **SUTD x Petra Christian University International Hackathon 2026**
-- Open to AI internships, freelance web work, product engineering collaborations, and useful software problems
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
+    width="360"
+    alt="Animated developer working at a computer"
+  />
+</p>
+
+<p align="center">
+  <a href="https://www.ezradesmonds.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-C7F464?style=for-the-badge&logo=astro&logoColor=111111" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ezradesmonds/">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ezradesmonds@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01581b3a41ebe44f76">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+</p>
 
 ---
 
-## Selected Work
+## ⚡ What I build
+
+I turn unclear, manual, or fragmented workflows into practical software people can review and use.
+
+```text
+messy workflow
+      ↓
+understand the real constraint
+      ↓
+design the smallest reliable system
+      ↓
+build · test · explain · improve
+```
+
+- 🤖 AI-assisted products with validation and human review
+- 🧩 Full-stack web applications, dashboards, and internal tools
+- 📊 Accounting, reporting, event, and decision-support workflows
+- 🔌 API integrations, automation, and maintainable delivery
+- 🧪 Product experiments that distinguish prototypes from proven outcomes
+
+> I care about evidence over hype, clear scope over feature bloat, and software that survives beyond the demo.
+
+---
+
+## 🛰️ Current signal
+
+- 🏆 **2nd Place** — SUTD × Petra Christian University International Hackathon 2026
+- 🎓 Informatics student with a **3.76 / 4.00 cumulative GPA**
+- 🧭 Open to AI/full-stack internships, freelance projects, and product-engineering collaborations
+- 🌱 Going deeper into reliable AI systems, automation, and Apple-native product thinking
+- 🎸 Also teaching structured acoustic and electric guitar lessons
+
+---
+
+## 🚀 Selected work
 
 | Project | What it does | Stack / Domain |
 |---|---|---|
-| **Akun.AI** | Pre-launch AI-assisted accounting MVP for Indonesian SMEs, with production-oriented architecture for ledger workflows, reporting, and business admin surfaces | Next.js, TypeScript, Supabase, PostgreSQL, AI integration |
-| **TokoKaret.com** | Commerce and consultation platform for rubber and industrial products, with a client-side rule/keyword recommendation helper and WhatsApp handoff | Astro, TypeScript, Tailwind CSS, rule-based recommendation |
-| **FinanceOS** | Private market research terminal for news ingestion, watchlists, signal review, and dry-run trade lifecycle tracking | Next.js, TypeScript, Python, Binance API, PostgreSQL |
-| **RekapFlow** | Finance and transaction-reconciliation workflow app focused on manual-entry reliability, review states, and operational clarity | React, TypeScript, data workflows |
-| [**SAKTI — Intelligent Tailor Allocation System**](https://github.com/ezradesmonds/SAKTIkoperasiapp) | A hybrid decision-support prototype combining tailor profiling, adaptive allocation, workload balancing, and integrated cooperative operations. | Python, Machine Learning, Streamlit, SQLite |
-| **Servisin** | Group-built repair-service marketplace where I owned the Laravel backend, contributed to the React Native frontend, and co-created the product and business design | Laravel, React Native, MySQL, product and business design |
-| **Innofashion Show 8** | Event registration, admin dashboard, QR ticketing, and participant operations for a live student-run event | Next.js, Laravel, MySQL |
-| **Personal Portfolio** | Case-study portfolio for AI, full-stack, finance, event-tech, interactive game, and academic systems | Astro, TypeScript, Tailwind CSS |
+| **Akun.AI** | Pre-launch AI-assisted accounting workspace with ledger workflows, financial reporting, receipt extraction, and reviewable AI assistance | Next.js, TypeScript, Supabase, PostgreSQL, AI integration |
+| [**SAKTI**](https://github.com/ezradesmonds/SAKTIkoperasiapp) | Award-winning decision-support prototype for tailor allocation, workload balancing, and cooperative operations | Python, Machine Learning, Streamlit, SQLite |
+| **Innofashion Show 8** | Live event platform covering registration, admin operations, QR ticketing, attendance, and reporting | Next.js, Laravel, MySQL |
+| **TokoKaret.com** | Commerce and guided product-consultation platform for rubber and industrial products | Astro, TypeScript, Tailwind CSS |
+| **RekapFlow** | Transaction-reconciliation workflow focused on reliable manual entry, review states, and operational clarity | React, TypeScript, data workflows |
+| **Servisin** | Group-built repair-service marketplace where I owned the Laravel backend and contributed to the mobile product | Laravel, React Native, MySQL |
+
+<p align="center">
+  <a href="https://www.ezradesmonds.my.id/#work">
+    <img src="https://img.shields.io/badge/Explore_the_case_studies-111827?style=for-the-badge&logo=readme&logoColor=C7F464" alt="Explore Ezra's case studies" />
+  </a>
+</p>
 
 ---
 
-## Current Focus
+## 🛠️ Builder toolkit
 
-- AI-powered web apps and automation workflows
-- Accounting, finance, and reporting systems for SMEs and operators
-- Research-only quantitative finance tools and dry-run trading infrastructure
-- Product design, system architecture, and maintainable delivery
-- Campus leadership and operations across technology, finance, and administration roles
+### Languages
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,java,r" alt="TypeScript, JavaScript, Python, PHP, Java, and R" />
+</p>
 
-## Tech Stack
+### Product engineering
 
-**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind,laravel,fastapi" alt="Next.js, React, Astro, Tailwind CSS, Laravel, and FastAPI" />
+</p>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+### Data and infrastructure
 
-**Frontend & Product**
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,sqlite,docker,vercel,git,github" alt="Supabase, PostgreSQL, MySQL, SQLite, Docker, Vercel, Git, and GitHub" />
+</p>
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
+### Applied AI and automation
 
-**Backend, Data & Infrastructure**
-
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-**AI, Automation & Finance**
-
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![MetaTrader 5](https://img.shields.io/badge/-MetaTrader_5-2C2C54?style=flat)
-![Binance](https://img.shields.io/badge/-Binance-F0B90B?style=flat&logo=binance&logoColor=black)
-
-Currently learning deeper AI agent orchestration, quantitative research systems, Mandarin, and Apple-native product patterns.
+<p>
+  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM integration" />
+  <img src="https://img.shields.io/badge/Structured_AI_Output-0F766E?style=flat-square" alt="Structured AI output" />
+  <img src="https://img.shields.io/badge/OCR_Workflows-7C3AED?style=flat-square" alt="OCR workflows" />
+  <img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n automation" />
+  <img src="https://img.shields.io/badge/Human_Approval-2563EB?style=flat-square" alt="Human approval controls" />
+</p>
 
 ---
 
-## Links
+## 🎮 My operating loop
 
-- Portfolio: [www.ezradesmonds.my.id](https://www.ezradesmonds.my.id)
-- LinkedIn: [Ezra Desmond Sutanto](https://www.linkedin.com/in/ezradesmonds/)
-- Instagram: [@ezradesmonds](https://instagram.com/ezradesmonds)
-- GitHub: [@ezradesmonds](https://github.com/ezradesmonds)
-- Location: Surabaya, Indonesia
+| 01 — Frame | 02 — Build | 03 — Verify | 04 — Communicate |
+|---|---|---|---|
+| Find the actual user and constraint | Ship the smallest coherent system | Test happy paths, failures, and boundaries | Show evidence, tradeoffs, and limitations |
+
+---
+
+## 📬 Let's build something useful
+
+<p align="center">
+  <a href="mailto:ezradesmonds@gmail.com">
+    <img src="https://img.shields.io/badge/Discuss_a_project-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Discuss a project by email" />
+  </a>
+  <a href="https://www.fiverr.com/ezradesmonds">
+    <img src="https://img.shields.io/badge/View_Fiverr_services-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="View Fiverr services" />
+  </a>
+  <a href="https://github.com/ezradesmonds">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Ezra on GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Build clearly. Verify honestly. Keep improving.</sub>
+</p>
