@@ -131,6 +131,7 @@ build · test · explain · improve
 ![Binance](https://img.shields.io/badge/-Binance-F0B90B?style=flat&logo=binance&logoColor=black)
 
 Currently learning deeper AI agent orchestration, quantitative research systems, Mandarin, and Apple-native product patterns.
+
 ---
 
 ## 🎮 My operating loop
