@@ -94,36 +94,43 @@ build · test · explain · improve
 
 ---
 
-## 🛠️ Builder toolkit
+## 🛠️ Tech Stack
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,php,java,r" alt="TypeScript, JavaScript, Python, PHP, Java, and R" />
-</p>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
-### Product engineering
+### Frontend & Product
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind,laravel,fastapi" alt="Next.js, React, Astro, Tailwind CSS, Laravel, and FastAPI" />
-</p>
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
 
-### Data and infrastructure
+### Backend, Data & Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,sqlite,docker,vercel,git,github" alt="Supabase, PostgreSQL, MySQL, SQLite, Docker, Vercel, Git, and GitHub" />
-</p>
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-### Applied AI and automation
+### AI, Automation & Finance
 
-<p>
-  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM integration" />
-  <img src="https://img.shields.io/badge/Structured_AI_Output-0F766E?style=flat-square" alt="Structured AI output" />
-  <img src="https://img.shields.io/badge/OCR_Workflows-7C3AED?style=flat-square" alt="OCR workflows" />
-  <img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n automation" />
-  <img src="https://img.shields.io/badge/Human_Approval-2563EB?style=flat-square" alt="Human approval controls" />
-</p>
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![MetaTrader 5](https://img.shields.io/badge/-MetaTrader_5-2C2C54?style=flat)
+![Binance](https://img.shields.io/badge/-Binance-F0B90B?style=flat&logo=binance&logoColor=black)
 
+Currently learning deeper AI agent orchestration, quantitative research systems, Mandarin, and Apple-native product patterns.
 ---
 
 ## 🎮 My operating loop
