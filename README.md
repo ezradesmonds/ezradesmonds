@@ -84,7 +84,6 @@ build · test · explain · improve
 | **Innofashion Show 8** | Live event platform covering registration, admin operations, QR ticketing, attendance, and reporting | Next.js, Laravel, MySQL |
 | **WGG 2026 Real-Time Voting Game** | Operator-controlled, three-stage audience game with synchronized 30-second voting, Ably realtime state, and live results; designed for an approximately 1,300-student audience target, with full-scale load and live usage still pending validation | Laravel, JavaScript, Blade, Ably Pro, MySQL |
 | **TokoKaret.com** | Commerce and guided product-consultation platform for rubber and industrial products | Astro, TypeScript, Tailwind CSS |
-| **RekapFlow** | Transaction-reconciliation workflow focused on reliable manual entry, review states, and operational clarity | React, TypeScript, data workflows |
 | **Servisin** | Group-built repair-service marketplace where I owned the Laravel backend and contributed to the mobile product | Laravel, React Native, MySQL |
 
 <p align="center">
