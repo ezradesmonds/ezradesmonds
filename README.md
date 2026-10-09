@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101331,45:283A82,75:563DA3,100:454FB0&height=190&section=header&text=Ezra%20Desmond%20Sutanto&fontSize=38&fontColor=F5F7FF&fontAlignY=37&desc=AI%20%26%20Full-Stack%20Product%20Builder&descAlignY=61&descSize=16&animation=fadeIn" width="100%" alt="Ezra Desmond Sutanto — AI and Full-Stack Product Builder" />
+  <img src="https://raw.githubusercontent.com/ezradesmonds/ezradesmonds/main/assets/profile-banner.svg" width="100%" alt="Ezra Desmond Sutanto — AI and Full-Stack Product Builder" />
 </p>
 
 <p align="center"><strong>TypeScript · Next.js · Python · AI products · Workflow automation</strong></p>
