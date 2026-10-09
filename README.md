@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/profile-banner.svg?v=3" width="100%" alt="Ezra Desmond Sutanto — From workflow to working product. AI and Full-Stack Developer." /></p>
+<p align="center"><img src="assets/profile-banner.svg?v=4" width="100%" alt="Ezra Desmond Sutanto — AI and Full-Stack Developer." /></p>
 
 <p align="center"><strong>TypeScript · Next.js · Python</strong><br/>AI products · Workflow automation · Full-stack web</p>
 
@@ -6,9 +6,12 @@
 
 <p align="center"><img src="assets/about-me.svg?v=3" width="100%" alt="Ezra is an Informatics student at Petra Christian University, building AI products, workflow automation, and full-stack web applications." /></p>
 
-I'm an Informatics student at Petra Christian University in Surabaya, Indonesia. I work across interfaces, APIs, and data workflows to turn operational problems into software people can use.
-
-**GPA 3.76 / 4.00** · Interested in clear interfaces, reliable systems, and practical AI integration.
+- 🤖 Building **AI-assisted features** — accounting assistants, LLM integration, and receipt-OCR prototypes.
+- 🏗️ Full-stack development with **Next.js · React** on the front and **Laravel · FastAPI · Node.js · NestJS** on the back.
+- ⚙️ Turning **manual workflows into software** — event registration, QR attendance, reporting, and decision support.
+- 🎓 Informatics student at **Petra Christian University** · GPA **3.76/4.00**.
+- 🧠 Using **Codex** as an AI coding partner for implementation, debugging, and review.
+- 📍 Based in **Surabaya, Indonesia** — interested in clear interfaces, reliable systems, and practical AI products.
 
 ## Featured projects
 
