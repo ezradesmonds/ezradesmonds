@@ -1,23 +1,61 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ezradesmonds/ezradesmonds/main/assets/profile-banner.svg?v=2" width="100%" alt="Animated Ezra Desmond Sutanto banner — AI and Full-Stack Product Builder" />
-</p>
+<p align="center"><img src="assets/profile-banner.svg?v=3" width="100%" alt="Ezra Desmond Sutanto — From workflow to working product. AI and Full-Stack Developer." /></p>
 
-<p align="center"><strong>TypeScript · Next.js · Python · AI products · Workflow automation</strong></p>
+<p align="center"><strong>TypeScript · Next.js · Python</strong><br/>AI products · Workflow automation · Full-stack web</p>
 
-## 👋 About me
+## About
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ezradesmonds/ezradesmonds/main/assets/about-me.svg?v=2" width="88%" alt="Animated code-style profile card introducing Ezra, an Informatics student and AI and full-stack product builder at Petra Christian University in Surabaya." />
-</p>
+<p align="center"><img src="assets/about-me.svg?v=3" width="100%" alt="Ezra is an Informatics student at Petra Christian University, building AI products, workflow automation, and full-stack web applications." /></p>
 
-I build web products and AI-assisted tools, from user-facing interfaces to APIs and data workflows. My project work includes accounting software, event systems, and decision-support prototypes.
+I'm an Informatics student at Petra Christian University in Surabaya, Indonesia. I work across interfaces, APIs, and data workflows to turn operational problems into software people can use.
 
-- 🎓 Informatics, Petra Christian University · GPA 3.76 / 4.00
-- 🤖 Exploring RAG, LLM integrations, and workflow automation
-- 🧩 Interested in clear interfaces, useful software, and reliable systems
-- 📍 Surabaya, Indonesia
+**GPA 3.76 / 4.00** · Interested in clear interfaces, reliable systems, and practical AI integration.
 
-## 🛠️ Tech stack
+## Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Akun.AI</h3>
+<p><strong>In development</strong></p>
+<p>Accounting workflows for Indonesian SMEs.</p>
+<p><strong>My contribution:</strong> Solo builder: architecture, accounting workflows, reporting, and AI integration.</p>
+<p><code>Next.js · TypeScript · Supabase · OpenRouter</code></p>
+<p><a href="https://www.ezradesmonds.my.id/work/akun-ai/">Case study ↗</a> · <a href="https://github.com/ezradesmonds/SaaS_akun.ai">Source ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>SAKTI</h3>
+<p><strong>2nd Place · PCU × SUTD GEO 2026</strong></p>
+<p>Decision support for tailor allocation and cooperative operations.</p>
+<p><strong>My contribution:</strong> ML profiling, allocation logic, Streamlit interfaces, and visual analytics.</p>
+<p><code>Python · Streamlit · Scikit-learn · SQLite</code></p>
+<p><a href="https://www.ezradesmonds.my.id/work/tailor-cooperative-system/">Case study ↗</a> · <a href="https://github.com/ezradesmonds/SAKTIkoperasiapp">Source ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Innofashion Show 8</h3>
+<p><strong>Delivered · Event platform</strong></p>
+<p>Registration, admin workflows, and QR attendance.</p>
+<p><strong>My contribution:</strong> IT division lead: architecture, frontend/backend development, and deployment.</p>
+<p><code>Next.js · Laravel · MySQL</code></p>
+<p><a href="https://www.ezradesmonds.my.id/work/innofashion-show-8/">Case study ↗</a> · <a href="https://github.com/innofashion-8/frontend">Source ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>FinLend</h3>
+<p><strong>Academic prototype</strong></p>
+<p>Credit-risk simulation combining an ML model and fuzzy logic.</p>
+<p><strong>My contribution:</strong> Laravel interface, FastAPI integration, and applicant intake workflow.</p>
+<p><code>Laravel · FastAPI · Python · Fuzzy Logic</code></p>
+<p><a href="https://www.ezradesmonds.my.id/work/finlend/">Case study ↗</a> · <a href="https://github.com/ezradesmonds/Finlend">Source ↗</a></p>
+</td>
+</tr>
+</table>
+
+[More projects and case studies →](https://www.ezradesmonds.my.id)
+
+## Tech stack
+
+**Core stack:** TypeScript · Next.js · Python · Laravel · FastAPI · PostgreSQL
 
 <div align="center">
 
@@ -43,35 +81,27 @@ I build web products and AI-assisted tools, from user-facing interfaces to APIs 
 
 **GenAI & AI-Assisted Development**
 
-<img src="https://img.shields.io/badge/Langflow-786BEE?style=for-the-badge" alt="Langflow" />
-<img src="https://img.shields.io/badge/LLM_Integration-4776E6?style=for-the-badge" alt="LLM integration" />
-<img src="https://img.shields.io/badge/RAG-8E54E9?style=for-the-badge" alt="Retrieval-augmented generation" />
+<img src="https://img.shields.io/badge/Langflow-276B68?style=for-the-badge" alt="Langflow" />
+<img src="https://img.shields.io/badge/LLM_Integration-276B68?style=for-the-badge" alt="LLM integration" />
+<img src="https://img.shields.io/badge/RAG-276B68?style=for-the-badge" alt="Retrieval-augmented generation" />
 
 </div>
-
-## Selected projects
-
-- [Akun.AI](https://www.ezradesmonds.my.id/work/akun-ai/) — AI-assisted accounting product for Indonesian SMEs.
-- [SAKTI Cooperative System](https://www.ezradesmonds.my.id/work/tailor-cooperative-system/) — Human-reviewed tailor allocation prototype; 2nd Place, PCU × SUTD GEO 2026.
-- [Innofashion Show 8](https://www.ezradesmonds.my.id/work/innofashion-show-8/) — Event registration, admin, and QR attendance workflows.
-- [RekapFlow](https://www.ezradesmonds.my.id/work/rekapflow/) — Spreadsheet review prototype with local processing and report export.
-- [FinLend](https://www.ezradesmonds.my.id/work/finlend/) — Credit-risk simulation with a Laravel interface and FastAPI AI engine.
-
-More case studies: [ezradesmonds.my.id](https://www.ezradesmonds.my.id)
 
 ## GitHub activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ezradesmonds&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats for ezradesmonds" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezradesmonds&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages for ezradesmonds" />
-</div>
+<p align="center">
+  <a href="https://github.com/ezradesmonds?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=ezradesmonds&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B1623&amp;title_color=C7F464&amp;icon_color=79D9C5&amp;text_color=B3D0CF&amp;rank_icon=github" width="480" alt="Ezra's GitHub activity statistics" /></a>
+</p>
+
+[Browse repositories →](https://github.com/ezradesmonds?tab=repositories)
 
 ## Let's connect
 
-Have an internship opportunity, a project idea, or want to talk about building useful software? [Get in touch](mailto:ezradesmonds@gmail.com).
+Open to internship opportunities and collaboration on AI products, workflow automation, and full-stack applications.
 
-<p align="center">
-  <a href="https://github.com/ezradesmonds"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.ezradesmonds.my.id"><img src="https://img.shields.io/badge/Portfolio-C7F464?style=for-the-badge&logo=astro&logoColor=111111" alt="Portfolio website" /></a>
-  <a href="mailto:ezradesmonds@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ezra" /></a>
+<p>
+<a href="https://www.ezradesmonds.my.id"><img src="https://img.shields.io/badge/Website-C7F464?style=for-the-badge&amp;logo=astro&amp;logoColor=18251A" alt="Portfolio website" /></a>
+<a href="https://www.linkedin.com/in/ezradesmonds/"><img src="https://img.shields.io/badge/LinkedIn-276B68?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:ezradesmonds@gmail.com"><img src="https://img.shields.io/badge/Email-276B68?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Ezra" /></a>
+<a href="https://github.com/ezradesmonds"><img src="https://img.shields.io/badge/GitHub-182B36?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 </p>
