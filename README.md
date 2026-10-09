@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ezradesmonds/ezradesmonds/main/assets/profile-banner.gif" width="100%" alt="Animated Ezra Desmond Sutanto banner — AI and Full-Stack Product Builder" />
+  <img src="https://raw.githubusercontent.com/ezradesmonds/ezradesmonds/main/assets/profile-banner.svg?v=2" width="100%" alt="Animated Ezra Desmond Sutanto banner — AI and Full-Stack Product Builder" />
 </p>
 
 <p align="center"><strong>TypeScript · Next.js · Python · AI products · Workflow automation</strong></p>
@@ -7,7 +7,7 @@
 ## 👋 About me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ezradesmonds/ezradesmonds/main/assets/about-me.gif" width="100%" alt="Animated code-style profile card introducing Ezra, an Informatics student and AI and full-stack product builder at Petra Christian University in Surabaya." />
+  <img src="https://raw.githubusercontent.com/ezradesmonds/ezradesmonds/main/assets/about-me.svg?v=2" width="88%" alt="Animated code-style profile card introducing Ezra, an Informatics student and AI and full-stack product builder at Petra Christian University in Surabaya." />
 </p>
 
 I build web products and AI-assisted tools, from user-facing interfaces to APIs and data workflows. My project work includes accounting software, event systems, and decision-support prototypes.
@@ -19,14 +19,35 @@ I build web products and AI-assisted tools, from user-facing interfaces to APIs 
 
 ## 🛠️ Tech stack
 
-<p align="center"><strong>Languages</strong><br/><img src="https://skillicons.dev/icons?i=ts,js,py,php,java" alt="TypeScript, JavaScript, Python, PHP, and Java" /></p>
-<p align="center"><strong>Frontend</strong><br/><img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind" alt="React, Next.js, Astro, and Tailwind CSS" /></p>
-<p align="center"><strong>Backend & APIs</strong><br/><img src="https://skillicons.dev/icons?i=laravel,fastapi,postman" alt="Laravel, FastAPI, and Postman" /></p>
-<p align="center"><strong>Databases</strong><br/><img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="MySQL, PostgreSQL, and Supabase" /></p>
-<p align="center"><strong>Tools & delivery</strong><br/><img src="https://skillicons.dev/icons?i=git,github,docker" alt="Git, GitHub, and Docker" /></p>
+<div align="center">
 
-<p align="center"><strong>Exploring</strong><br/><img src="https://skillicons.dev/icons?i=vue,mongodb,aws,kubernetes,bootstrap" alt="Exploring Vue.js, MongoDB, AWS, Kubernetes, and Bootstrap" /></p>
-<p align="center"><img src="https://img.shields.io/badge/Langflow-Exploring-1C1C1C?style=flat" alt="Exploring Langflow" /></p>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,php,java" alt="TypeScript, JavaScript, Python, PHP, Java" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,vue,tailwind,bootstrap,html,css" alt="React, Next.js, Astro, Vue.js, Tailwind CSS, Bootstrap, HTML, CSS" />
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=laravel,fastapi" alt="Laravel, FastAPI" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" alt="MySQL, PostgreSQL, MongoDB, Supabase" />
+
+**DevOps, Cloud & Testing**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,postman" alt="Docker, Kubernetes, AWS, Git, GitHub, Postman" />
+
+**GenAI & AI-Assisted Development**
+
+<img src="https://img.shields.io/badge/Langflow-786BEE?style=for-the-badge" alt="Langflow" />
+<img src="https://img.shields.io/badge/LLM_Integration-4776E6?style=for-the-badge" alt="LLM integration" />
+<img src="https://img.shields.io/badge/RAG-8E54E9?style=for-the-badge" alt="Retrieval-augmented generation" />
+
+</div>
 
 ## Selected projects
 
