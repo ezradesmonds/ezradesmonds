@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+<title id="title">Ezra Desmond Sutanto</title>
+<desc id="desc">AI and Full-Stack Product Builder based in Surabaya, Indonesia.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11142f"/><stop offset=".52" stop-color="#263c82"/><stop offset="1" stop-color="#573d9e"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#4063b8" stop-opacity=".65"/><stop offset="1" stop-color="#4063b8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="230" rx="18" fill="url(#sky)"/>
+<ellipse cx="600" cy="85" rx="440" ry="170" fill="url(#glow)"/>
+<g fill="#e7eaff" opacity=".72"><circle cx="95" cy="56" r="2"/><circle cx="208" cy="108" r="1.5"/><circle cx="352" cy="43" r="1.5"/><circle cx="876" cy="52" r="2"/><circle cx="1012" cy="112" r="1.5"/><circle cx="1105" cy="48" r="2"/></g>
+<text x="600" y="105" text-anchor="middle" fill="#f5f7ff" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="1">Ezra Desmond Sutanto</text>
+<text x="600" y="146" text-anchor="middle" fill="#c8d3ff" font-family="monospace" font-size="17" letter-spacing="3">AI &amp; FULL-STACK PRODUCT BUILDER</text>
+<path d="M0 180 C150 156 255 203 405 181 S660 163 800 184 S1050 204 1200 177 V230 H0Z" fill="#5045aa" opacity=".88"/>
+<path d="M0 197 C170 177 260 222 450 198 S690 184 835 203 S1070 220 1200 195 V230 H0Z" fill="#6870d0" opacity=".82"/>
+</svg>
