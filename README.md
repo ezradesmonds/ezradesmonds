@@ -7,7 +7,7 @@
 ## 👋 About me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ezradesmonds/ezradesmonds/main/assets/about-me.svg" width="100%" alt="Code-style profile card introducing Ezra, an Informatics student and AI and full-stack product builder at Petra Christian University in Surabaya." />
+  <img src="https://raw.githubusercontent.com/ezradesmonds/ezradesmonds/main/assets/about-me.gif" width="100%" alt="Animated code-style profile card introducing Ezra, an Informatics student and AI and full-stack product builder at Petra Christian University in Surabaya." />
 </p>
 
 I build web products and AI-assisted tools, from user-facing interfaces to APIs and data workflows. My project work includes accounting software, event systems, and decision-support prototypes.
