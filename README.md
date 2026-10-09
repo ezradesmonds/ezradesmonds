@@ -31,7 +31,7 @@ I build web products and AI-assisted tools, from user-facing interfaces to APIs 
 
 **Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=laravel,fastapi" alt="Laravel, FastAPI" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,fastapi,rabbitmq" alt="Node.js, NestJS, Laravel, FastAPI, RabbitMQ" />
 
 **Databases**
 
@@ -39,7 +39,7 @@ I build web products and AI-assisted tools, from user-facing interfaces to APIs 
 
 **DevOps, Cloud & Testing**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,postman" alt="Docker, Kubernetes, AWS, Git, GitHub, Postman" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,postman,playwright" alt="Docker, Kubernetes, AWS, Linux, Git, GitHub, Postman, Playwright" />
 
 **GenAI & AI-Assisted Development**
 
