@@ -1,35 +1,31 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101331,45:283A82,75:563DA3,100:454FB0&height=190&section=header&text=Ezra%20Desmond%20Sutanto&fontSize=38&fontColor=F5F7FF&fontAlignY=37&desc=AI%20%26%20Full-Stack%20Product%20Builder&descAlignY=61&descSize=16&animation=fadeIn" width="100%" alt="Ezra Desmond Sutanto — AI and Full-Stack Product Builder" />
+</p>
 
-# Ezra Desmond Sutanto
+<p align="center"><strong>TypeScript · Next.js · Python · AI products · Workflow automation</strong></p>
 
-### Informatics Student · AI & Full-Stack Product Builder
+## 👋 About me
 
-`TypeScript` · `Next.js` · `React` · `Laravel` · `Python`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ezradesmonds/ezradesmonds/main/assets/about-me.svg" width="100%" alt="Code-style profile card introducing Ezra, an Informatics student and AI and full-stack product builder at Petra Christian University in Surabaya." />
+</p>
 
-Building AI products, workflow automation, and practical web applications.
-
-[Portfolio](https://www.ezradesmonds.my.id) · [LinkedIn](https://www.linkedin.com/in/ezradesmonds/) · [Email](mailto:ezradesmonds@gmail.com)
-
-</div>
-
-## About me
-
-I'm an Informatics student at Petra Christian University in Surabaya, Indonesia. I build web products and AI-assisted tools, from user-facing interfaces to APIs and data workflows. My project work includes accounting software, event systems, and decision-support prototypes.
+I build web products and AI-assisted tools, from user-facing interfaces to APIs and data workflows. My project work includes accounting software, event systems, and decision-support prototypes.
 
 - 🎓 Informatics, Petra Christian University · GPA 3.76 / 4.00
 - 🤖 Exploring RAG, LLM integrations, and workflow automation
 - 🧩 Interested in clear interfaces, useful software, and reliable systems
 - 📍 Surabaya, Indonesia
 
-## Tech stack
+## 🛠️ Tech stack
 
-Tools used in projects and coursework:
+<p align="center"><strong>Languages</strong><br/><img src="https://skillicons.dev/icons?i=ts,js,py,php,java" alt="TypeScript, JavaScript, Python, PHP, and Java" /></p>
+<p align="center"><strong>Frontend</strong><br/><img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind" alt="React, Next.js, Astro, and Tailwind CSS" /></p>
+<p align="center"><strong>Backend & APIs</strong><br/><img src="https://skillicons.dev/icons?i=laravel,fastapi,postman" alt="Laravel, FastAPI, and Postman" /></p>
+<p align="center"><strong>Databases</strong><br/><img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="MySQL, PostgreSQL, and Supabase" /></p>
+<p align="center"><strong>Tools & delivery</strong><br/><img src="https://skillicons.dev/icons?i=git,github,docker" alt="Git, GitHub, and Docker" /></p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,php,laravel,py,fastapi,mysql,postgres,supabase,docker,git,github,postman,tailwind" alt="TypeScript, JavaScript, React, Next.js, Astro, PHP, Laravel, Python, FastAPI, MySQL, PostgreSQL, Supabase, Docker, Git, GitHub, Postman, and Tailwind CSS" />
-</p>
-
-Exploring: Vue.js · MongoDB · AWS · Kubernetes · Langflow · Bootstrap
+**Exploring:** Vue.js · MongoDB · AWS · Kubernetes · Langflow · Bootstrap
 
 ## Selected projects
 
