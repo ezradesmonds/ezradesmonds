@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ezradesmonds/ezradesmonds/main/assets/profile-banner.svg" width="100%" alt="Ezra Desmond Sutanto — AI and Full-Stack Product Builder" />
+  <img src="https://raw.githubusercontent.com/ezradesmonds/ezradesmonds/main/assets/profile-banner.gif" width="100%" alt="Animated Ezra Desmond Sutanto banner — AI and Full-Stack Product Builder" />
 </p>
 
 <p align="center"><strong>TypeScript · Next.js · Python · AI products · Workflow automation</strong></p>
