@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/profile-banner.svg?v=5" width="100%" alt="Ezra Desmond Sutanto — AI and Full-Stack Developer." /></p>
+<p align="center"><img src="assets/profile-banner.svg?v=6" width="100%" alt="Ezra Desmond Sutanto — AI and Full-Stack Developer." /></p>
 
 <p align="center"><strong>TypeScript · Next.js · Python</strong><br/>AI products · Workflow automation · Full-stack web</p>
 
