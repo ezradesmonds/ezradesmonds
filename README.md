@@ -25,7 +25,8 @@ I build web products and AI-assisted tools, from user-facing interfaces to APIs 
 <p align="center"><strong>Databases</strong><br/><img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="MySQL, PostgreSQL, and Supabase" /></p>
 <p align="center"><strong>Tools & delivery</strong><br/><img src="https://skillicons.dev/icons?i=git,github,docker" alt="Git, GitHub, and Docker" /></p>
 
-**Exploring:** Vue.js · MongoDB · AWS · Kubernetes · Langflow · Bootstrap
+<p align="center"><strong>Exploring</strong><br/><img src="https://skillicons.dev/icons?i=vue,mongodb,aws,kubernetes,bootstrap" alt="Exploring Vue.js, MongoDB, AWS, Kubernetes, and Bootstrap" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Langflow-Exploring-1C1C1C?style=flat" alt="Exploring Langflow" /></p>
 
 ## Selected projects
 
@@ -48,4 +49,8 @@ More case studies: [ezradesmonds.my.id](https://www.ezradesmonds.my.id)
 
 Have an internship opportunity, a project idea, or want to talk about building useful software? [Get in touch](mailto:ezradesmonds@gmail.com).
 
-[Portfolio](https://www.ezradesmonds.my.id) · [GitHub](https://github.com/ezradesmonds) · [LinkedIn](https://www.linkedin.com/in/ezradesmonds/)
+<p align="center">
+  <a href="https://github.com/ezradesmonds"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.ezradesmonds.my.id"><img src="https://img.shields.io/badge/Portfolio-C7F464?style=for-the-badge&logo=astro&logoColor=111111" alt="Portfolio website" /></a>
+  <a href="mailto:ezradesmonds@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ezra" /></a>
+</p>
